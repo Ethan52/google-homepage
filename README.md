@@ -1,0 +1,1 @@
+This is the HTML/CSS project for The Odin Project. The goal is to try and recreate the google homepage as similar as possible.
